@@ -1,1 +1,14 @@
 
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Admin - Bikes Lab</title>
+</head>
+<body>
+  <h1>Área do Administrador</h1>
+  <p>Aqui você poderá editar serviços, produtos e contatos.</p>
+  <!-- Painel de administração simples, poderia evoluir -->
+</body>
+</html>
